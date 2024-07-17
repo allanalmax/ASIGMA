@@ -1,4 +1,4 @@
-import 'dart.io';
+import 'dart:io';
 
 void main () {
   print('Rock, Paper, Scissors? (r/p/s)');

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AllanAmanya\\ASIGMA\\c#\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AllanAmanya\\ASIGMA\\c#\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AllanAmanya\\ASIGMA\\c#\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\AllanAmanya\\ASIGMA\\c#\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\AllanAmanya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AllanAmanya\\ASIGMA\\c#\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AllanAmanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
