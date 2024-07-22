@@ -14,6 +14,7 @@ class Person {
 }
 
 void main() {
+  // ignore: unused_local_variable
   final person = <String, dynamic>{'name': 'Allan', 'age': 22, 'height': 1.80};
   final person1 = Person(name: 'Ben', age: 29, height: 1.98);
   final person2 = Person(name: 'Jane', age: 30, height: 1.89);
