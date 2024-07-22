@@ -3,25 +3,25 @@
   "packages": [
     {
       "name": "collection",
-      "rootUri": "file:///Users/allanamanya/.pub-cache/hosted/pub.dev/collection-1.19.0",
+      "rootUri": "file:///C:/Users/AllanAmanya/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
     {
       "name": "equatable",
-      "rootUri": "file:///Users/allanamanya/.pub-cache/hosted/pub.dev/equatable-2.0.5",
+      "rootUri": "file:///C:/Users/AllanAmanya/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/allanamanya/.pub-cache/hosted/pub.dev/meta-1.15.0",
+      "rootUri": "file:///C:/Users/AllanAmanya/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "pedantic",
-      "rootUri": "file:///Users/allanamanya/.pub-cache/hosted/pub.dev/pedantic-1.11.1",
+      "rootUri": "file:///C:/Users/AllanAmanya/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -32,10 +32,10 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-07-21T22:54:10.977381Z",
+  "generated": "2024-07-22T07:19:19.287351Z",
   "generator": "pub",
   "generatorVersion": "3.4.4",
-  "flutterRoot": "file:///Users/allanamanya/Development/flutter",
-  "flutterVersion": "3.13.1",
-  "pubCache": "file:///Users/allanamanya/.pub-cache"
+  "flutterRoot": "file:///C:/flutter",
+  "flutterVersion": "3.22.3",
+  "pubCache": "file:///C:/Users/AllanAmanya/AppData/Local/Pub/Cache"
 }
