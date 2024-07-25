@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "pedantic",
-      "rootUri": "file:///C:/Users/AllanAmanya/AppData/Local/Pub/Cache/hosted/pub.dev/pedantic-1.11.1",
+      "rootUri": "file:///Users/allanamanya/.pub-cache/hosted/pub.dev/pedantic-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -14,10 +14,10 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-07-19T09:08:36.655216Z",
+  "generated": "2024-07-22T18:09:08.353947Z",
   "generator": "pub",
-  "generatorVersion": "3.4.3",
-  "flutterRoot": "file:///C:/flutter",
-  "flutterVersion": "3.22.2",
-  "pubCache": "file:///C:/Users/AllanAmanya/AppData/Local/Pub/Cache"
+  "generatorVersion": "3.4.4",
+  "flutterRoot": "file:///Users/allanamanya/Development/flutter",
+  "flutterVersion": "3.13.1",
+  "pubCache": "file:///Users/allanamanya/.pub-cache"
 }

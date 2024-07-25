@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AllanAmanya\\.nuget\\packages\\": {}
+    "/Users/allanamanya/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "/Users/allanamanya/Documents/ASIGMA/C#/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\AllanAmanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AllanAmanya\\Desktop\\ASIGMA\\C#\\HelloWorld\\obj\\",
+      "projectPath": "/Users/allanamanya/Documents/ASIGMA/C#/HelloWorld/HelloWorld.csproj",
+      "packagesPath": "/Users/allanamanya/.nuget/packages/",
+      "outputPath": "/Users/allanamanya/Documents/ASIGMA/C#/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AllanAmanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/allanamanya/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
