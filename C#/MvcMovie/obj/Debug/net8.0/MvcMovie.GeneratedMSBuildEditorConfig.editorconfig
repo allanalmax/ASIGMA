@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/allanamanya/Documents/ASIGMA/C#/MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/allanamanya/Documents/ASIGMA/C\#/MvcMovie/Views/HelloWorld/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/allanamanya/Documents/ASIGMA/C\#/MvcMovie/Views/HelloWorld/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9XZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/allanamanya/Documents/ASIGMA/C\#/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
